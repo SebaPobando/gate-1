@@ -7,9 +7,9 @@ Esta es la estructura base que vas a usar como punto de partida para tu proyecto
 Estos pasos se completan de forma progresiva a lo largo de la Unidad U1.2, no todos el mismo día:
 
 1. Clona este repositorio utilizando el comando "git clone https://github.com/SebaPobando/gate-1.git"
-2. Crea tu entorno virtual de Python usando el comando <python -m venv venv> en tu terminal (por ejemplo, con `venv`) y actívalo usando el comando <venv/bin/activate>.
+2. Crea tu entorno virtual de Python usando el comando <python -m venv venv> en tu terminal y actívalo usando el comando <venv/Scripts/activate>.
 3. Instala las dependencias del proyecto usando el comando <pip install -r requirements.txt> para poder usarlas en la aplicación.
-4. Copia `.env.example` a un archivo nuevo llamado `.env` usando el comando <cp .env.example .env>, y completa ahí usando tu API.
+4. Copia `.env.example` a un archivo nuevo llamado `.env` usando el comando <Copy-Item .env.example .env>, y completa ahí usando tu API.
 5. Para ejectuar la "aplicación", usa el comando <python src/consumir_gemini.py>.
 
 ## Estructura de carpetas
@@ -31,5 +31,5 @@ Estos pasos se completan de forma progresiva a lo largo de la Unidad U1.2, no to
  
 - Fecha: 22/10/2026
 - Encontrado: En el README.md, no aparece el link del repositorio.
-- Corregido: 
-- Resultado tras la corrección: 
+- Corregido: Se puso el link correcto del repositorio.
+- Resultado tras la corrección: El repositorio se clonó de forma satisfactoria.
