@@ -6,7 +6,7 @@ Esta es la estructura base que vas a usar como punto de partida para tu proyecto
 
 Estos pasos se completan de forma progresiva a lo largo de la Unidad U1.2, no todos el mismo día:
 
-1. Clona este repositorio utilizando el comando "git clone <url-del-repositorio>"
+1. Clona este repositorio utilizando el comando "git clone https://github.com/SebaPobando/gate-1.git"
 2. Crea tu entorno virtual de Python usando el comando <python -m venv venv> en tu terminal (por ejemplo, con `venv`) y actívalo usando el comando <venv/bin/activate>.
 3. Instala las dependencias del proyecto usando el comando <pip install -r requirements.txt> para poder usarlas en la aplicación.
 4. Copia `.env.example` a un archivo nuevo llamado `.env` usando el comando <cp .env.example .env>, y completa ahí usando tu API.
@@ -29,7 +29,7 @@ Estos pasos se completan de forma progresiva a lo largo de la Unidad U1.2, no to
 
 ## Registro del ensayo de instalación limpia
  
-- Fecha: 
-- Encontrado: 
+- Fecha: 22/10/2026
+- Encontrado: En el README.md, no aparece el link del repositorio.
 - Corregido: 
 - Resultado tras la corrección: 
